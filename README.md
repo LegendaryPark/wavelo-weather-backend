@@ -3,7 +3,8 @@
 Welcome to the backend server repository for the Weather App! This server handles requests for weather information based on your current location or any city you specify. It's designed to work in tandem with the frontend to deliver a seamless user experience.
 
 ### Important Note
-To fully experience the app, you'll also need to run the frontend component. You can find the frontend repository and setup instructions [here](https://github.com/LegendaryPark/wavelo-weather-frontend).
+1. To fully experience the app, you'll also need to run the frontend component. You can find the frontend repository and setup instructions [here](https://github.com/LegendaryPark/wavelo-weather-frontend).
+2. Make sure to create your own .env file at the root and add GEOCODING_API_KEY to it. Please visit [Geocode](https://geocode.maps.co/) to get your own API key
 
 ## Getting Started
 
